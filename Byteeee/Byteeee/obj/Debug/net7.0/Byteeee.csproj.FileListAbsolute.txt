@@ -1,0 +1,14 @@
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\bin\Debug\net7.0\Byteeee.exe
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\bin\Debug\net7.0\Byteeee.deps.json
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\bin\Debug\net7.0\Byteeee.runtimeconfig.json
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\bin\Debug\net7.0\Byteeee.dll
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\bin\Debug\net7.0\Byteeee.pdb
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\Byteeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\Byteeee.AssemblyInfoInputs.cache
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\Byteeee.AssemblyInfo.cs
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\Byteeee.csproj.CoreCompileInputs.cache
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\Byteeee.dll
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\refint\Byteeee.dll
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\Byteeee.pdb
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\Byteeee.genruntimeconfig.cache
+C:\Users\victus\Desktop\c#\Byteeee\Byteeee\obj\Debug\net7.0\ref\Byteeee.dll
